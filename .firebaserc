@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-graph-4d123": {
+      "hosting": {
+        "goty": [
+          "firestore-graph-4d123"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-graph-4d123"
+  }
+}
